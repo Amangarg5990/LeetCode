@@ -12,10 +12,10 @@ public:
             }
             reverse(word.begin(),word.end());
             if(word.length()>0){
-                ans+=word;
-                ans+=' ';
+                ans+=' '+word;
+                
             }
         }
-        return ans.substr(0,ans.size()-1);
+        return ans.substr(1);
     }
 };
