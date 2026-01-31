@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Amangarg5990/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Amangarg5990/LeetCode/tree/master/2235-add-two-integers) |
 ## Linked List
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amangarg5990/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Amangarg5990/LeetCode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Amangarg5990/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Amangarg5990/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
