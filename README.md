@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amangarg5990/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Amangarg5990/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Amangarg5990/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Amangarg5990/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
