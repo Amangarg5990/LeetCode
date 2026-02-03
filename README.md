@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amangarg5990/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
