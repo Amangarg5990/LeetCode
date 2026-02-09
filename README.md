@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Amangarg5990/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Amangarg5990/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Amangarg5990/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Amangarg5990/LeetCode/tree/master/0146-lru-cache) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Amangarg5990/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
