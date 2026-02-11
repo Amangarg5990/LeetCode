@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amangarg5990/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Amangarg5990/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Amangarg5990/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0137-single-number-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Amangarg5990/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Amangarg5990/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Amangarg5990/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Amangarg5990/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Amangarg5990/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Amangarg5990/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Amangarg5990/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amangarg5990/LeetCode/tree/master/0242-valid-anagram) |
