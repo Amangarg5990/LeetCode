@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Amangarg5990/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/Amangarg5990/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amangarg5990/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Amangarg5990/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Amangarg5990/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amangarg5990/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Amangarg5990/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Amangarg5990/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amangarg5990/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amangarg5990/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Amangarg5990/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Amangarg5990/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amangarg5990/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
