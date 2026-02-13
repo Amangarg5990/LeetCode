@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, int &ans){
-    if(root == NULL) return;
-
-    inorder(root->left, ans);      // Left
-    ans++;    // Root
-    inorder(root->right, ans);     // Right
-    }
-
+    // void inorder(TreeNode* root, int &ans){
+    //     if(root == NULL) return;
+    //     inorder(root->left, ans);
+    //     ans++; 
+    //     inorder(root->right, ans); 
+    // }
+    // int countNodes(TreeNode* root) {
+    //     int ans=0;
+    //     inorder(root, ans);
+    //     return ans;
+    // }
     int countNodes(TreeNode* root) {
-        int ans=0;
-        inorder(root, ans);
-        return ans;
+        if(root==NULL) return 0;
+        int x=countNodes(root->left);
+        int y=countNodes(root->right);
+        return x+y+1;
     }
 };
