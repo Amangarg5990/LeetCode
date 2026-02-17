@@ -13,7 +13,7 @@ class Solution {
 public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         return helper(nums, 0, nums.size() - 1);
-    }
+     }
     TreeNode* helper(vector<int>& nums, int left, int right) {
         if (left > right) return nullptr;
         int mid = left + (right - left) / 2;
