@@ -21,21 +21,41 @@
  */
 class Solution {
 public:
-    TreeNode* sortedListToBST(ListNode* head) {
-        vector<int> res;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            res.push_back(temp->val);
-            temp=temp->next;
+    // TreeNode* sortedListToBST(ListNode* head) {
+    //     vector<int> res;
+    //     ListNode* temp=head;
+    //     while(temp!=NULL){
+    //         res.push_back(temp->val);
+    //         temp=temp->next;
+    //     }
+    //     return helper(res, 0, res.size() - 1);
+    // }
+    // TreeNode* helper(vector<int>& nums, int left, int right) {
+    //     if(left>right) return NULL;
+    //     int mid=(left+right)/2;
+    //     TreeNode* root= new TreeNode(nums[mid]);
+    //     root->left=helper(nums,left,mid-1);
+    //     root->right=helper(nums,mid+1,right);
+    //     return root;
+    // }
+    TreeNode* convertToBST(ListNode* start, ListNode* end){
+        if(start == end) return nullptr;
+        ListNode* slow = start;
+        ListNode* fast = start;
+
+        while(fast!=end && fast->next!=end){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return helper(res, 0, res.size() - 1);
+
+        TreeNode* head = new TreeNode(slow->val);
+        head->left = convertToBST(start, slow);
+        head->right = convertToBST(slow->next, end);
+        return head;
     }
-    TreeNode* helper(vector<int>& nums, int left, int right) {
-        if(left>right) return NULL;
-        int mid=(left+right)/2;
-        TreeNode* root= new TreeNode(nums[mid]);
-        root->left=helper(nums,left,mid-1);
-        root->right=helper(nums,mid+1,right);
-        return root;
+
+    TreeNode* sortedListToBST(ListNode* head) {
+        if(head == nullptr) return nullptr;
+        return convertToBST(head, nullptr);
     }
 };
