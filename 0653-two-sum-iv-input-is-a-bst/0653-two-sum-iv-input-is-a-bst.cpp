@@ -12,24 +12,18 @@
 class Solution {
 
 public:
-    vector<int> in(TreeNode* root){
-        vector<int> ans;
+    void in(TreeNode* root,vector<int> & ans){
         if(root== NULL){
-            return ans;
+            return;
         }
-        vector<int>l;
-        vector<int>r;
-        l=in(root->left);
-        ans.insert(ans.end(),l.begin(),l.end());
+        in(root->left,ans);
         ans.push_back(root->val);
-        r=in(root->right);
-        ans.insert(ans.end(),r.begin(),r.end());
-        return ans;
+        in(root->right,ans);
     }
     bool findTarget(TreeNode* root, int k) {
         if(root==NULL) return false;
         vector<int> arr;
-        arr=in(root);
+        in(root,arr);
         int left = 0, right = arr.size() - 1;
         while (left < right){
             int sum = arr[left] + arr[right];
