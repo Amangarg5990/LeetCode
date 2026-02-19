@@ -21,9 +21,30 @@ public:
     }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         vector<int> res;
-        inO(root1,res);
-        inO(root2,res);
-        sort(res.begin(),res.end());
+        vector<int> l;
+        vector<int> r;
+        inO(root1,l);
+        inO(root2,r);
+        int i=0;
+        int j=0;
+        while(i<l.size() && j<r.size()){
+            if(l[i]<r[j]){
+                res.push_back(l[i]);
+                i++;
+            }
+            else{
+                res.push_back(r[j]);
+                j++;
+            }
+        }
+        while(i<l.size()){
+                res.push_back(l[i]);
+                i++;
+        }
+        while(j<r.size()){
+                res.push_back(r[j]);
+                j++;
+        }
         return res;
     }
 };
