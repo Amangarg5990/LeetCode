@@ -1,39 +1,46 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dum = new ListNode(-1);
-        ListNode* start = dum;
-        ListNode* temp = l1;
-        ListNode* temp2 = l2;
-        int ca = 0;
-        while (temp != NULL && temp2 != NULL) {
-            int sum = temp->val + temp2->val + ca;
-            ca = sum / 10;
-            ListNode* node = new ListNode(sum % 10);
-            start->next = node;
-            start = start->next;
-            temp = temp->next;
-            temp2 = temp2->next;
+        ListNode* dumm=new ListNode(0);
+        ListNode* t=dumm;
+        ListNode* temp1=l1;
+        ListNode* temp2=l2;
+        int cary=0;
+        while(temp1!=NULL && temp2!=NULL){
+            int sum=temp1->val+temp2->val+cary;
+            cary=sum/10;
+            dumm->next=new ListNode(sum%10);
+            dumm=dumm->next;
+            temp1=temp1->next;
+            temp2=temp2->next;
         }
-        while (temp != NULL) {
-            int sum1 = temp->val + ca;
-            ca = sum1 / 10;
-            ListNode* node = new ListNode(sum1 % 10);
-            start->next = node;
-            start = start->next;
-            temp = temp->next;
+        while(temp1!=NULL){
+            int sum=temp1->val+cary;
+            cary=sum/10;
+            dumm->next=new ListNode(sum%10);
+            dumm=dumm->next;
+            temp1=temp1->next;
         }
-        while (temp2 != NULL) {
-            int sum2 = temp2->val + ca;
-            ca = sum2 / 10;
-            ListNode* node = new ListNode(sum2 % 10);
-            start->next = node;
-            start = start->next;
-            temp2 = temp2->next;
+        while(temp2!=NULL){
+            int sum=temp2->val+cary;
+            cary=sum/10;
+            dumm->next=new ListNode(sum%10);
+            dumm=dumm->next;
+            temp2=temp2->next;
         }
-        if (ca > 0) {
-            start->next = new ListNode(ca);
+        if(cary!=0){
+            dumm->next=new ListNode(cary);
         }
-        return dum->next;
+        return t->next;
     }
 };
