@@ -11,24 +11,20 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    TreeNode* cur=new TreeNode(0);
+    TreeNode* temp=cur;
     void inorder(TreeNode* root){
         if(root==NULL){
             return;
         }
         inorder(root->left);
-        ans.push_back(root->val);
+        root->left=NULL;
+        cur->right=root;
+        cur=cur->right;
         inorder(root->right);
     }
     TreeNode* increasingBST(TreeNode* root) {
-        inorder(root);
-        TreeNode* new_root=new TreeNode(ans[0]);
-        TreeNode* temp=new_root;
-        for(int i=1;i<ans.size();i++){
-            TreeNode* ne=new TreeNode(ans[i]);
-            temp->right=ne;
-            temp=temp->right;
-        }   
-        return new_root;
+        inorder(root);  
+        return temp->right;
     }
 };
