@@ -21,8 +21,8 @@ public:
         if(p->val != q->val){
             return false;
         }
-            bool k=isSameTree(p->left,q->left);
-            bool m=isSameTree(p->right,q->right);
+        bool k=isSameTree(p->left,q->left);
+        bool m=isSameTree(p->right,q->right);
         return k&&m;
     }
 };
