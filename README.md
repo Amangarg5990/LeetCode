@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Amangarg5990/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Amangarg5990/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Amangarg5990/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Amangarg5990/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Amangarg5990/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Amangarg5990/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Amangarg5990/LeetCode/tree/master/0260-single-number-iii) |
