@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Amangarg5990/LeetCode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amangarg5990/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Amangarg5990/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Amangarg5990/LeetCode/tree/master/2235-add-two-integers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Linked List
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Amangarg5990/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Amangarg5990/LeetCode/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
