@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amangarg5990/LeetCode/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Amangarg5990/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Amangarg5990/LeetCode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amangarg5990/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Amangarg5990/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Amangarg5990/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Amangarg5990/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Amangarg5990/LeetCode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
