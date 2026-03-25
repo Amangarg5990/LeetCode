@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/Amangarg5990/LeetCode/tree/master/3379-transformed-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Amangarg5990/LeetCode/tree/master/0200-number-of-islands) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amangarg5990/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Design
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Amangarg5990/LeetCode/tree/master/0204-count-primes) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Graph Theory
 |  |
 | ------- |
