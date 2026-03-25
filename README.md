@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
