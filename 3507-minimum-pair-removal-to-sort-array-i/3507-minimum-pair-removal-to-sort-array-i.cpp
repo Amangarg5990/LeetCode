@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minPair(vector<int> v){
-        int minSum = 1e9;
+        int minSum = INT_MAX;
         int pos = -1;
         for(int i = 0; i < (int)v.size() - 1; i ++){
             if(v[i] + v[i + 1] < minSum){
