@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amangarg5990/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Amangarg5990/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Amangarg5990/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Amangarg5990/LeetCode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amangarg5990/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Amangarg5990/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Amangarg5990/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Amangarg5990/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Amangarg5990/LeetCode/tree/master/0039-combination-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amangarg5990/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
