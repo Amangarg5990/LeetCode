@@ -22,7 +22,7 @@ public:
         for(int i = 0; i < prerequisites.size(); i++){
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
-            adj[v].push_back(u);
+            adj[u].push_back(v);
         }
         for(int i=0;i<numCourses;i++){
             if(!vis[i]){
