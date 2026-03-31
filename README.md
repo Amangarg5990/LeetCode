@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Amangarg5990/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Amangarg5990/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Amangarg5990/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amangarg5990/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Amangarg5990/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Amangarg5990/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Amangarg5990/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0897-increasing-order-search-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Amangarg5990/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Amangarg5990/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amangarg5990/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Amangarg5990/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Ordered Set
 |  |
