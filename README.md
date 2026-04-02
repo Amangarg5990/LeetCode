@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Amangarg5990/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/Amangarg5990/LeetCode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/Amangarg5990/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Amangarg5990/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amangarg5990/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Amangarg5990/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Amangarg5990/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/Amangarg5990/LeetCode/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Amangarg5990/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Amangarg5990/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amangarg5990/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/Amangarg5990/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amangarg5990/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Amangarg5990/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amangarg5990/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/Amangarg5990/LeetCode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/Amangarg5990/LeetCode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -641,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Amangarg5990/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
