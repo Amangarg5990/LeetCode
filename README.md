@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Amangarg5990/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Amangarg5990/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Amangarg5990/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0622-design-circular-queue](https://github.com/Amangarg5990/LeetCode/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Amangarg5990/LeetCode/tree/master/0735-asteroid-collision) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Amangarg5990/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Amangarg5990/LeetCode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Amangarg5990/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Amangarg5990/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Amangarg5990/LeetCode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/Amangarg5990/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Amangarg5990/LeetCode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Amangarg5990/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amangarg5990/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
