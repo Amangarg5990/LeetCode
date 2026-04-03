@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Amangarg5990/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Amangarg5990/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amangarg5990/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Amangarg5990/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Amangarg5990/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amangarg5990/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amangarg5990/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
