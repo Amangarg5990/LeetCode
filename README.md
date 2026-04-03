@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Amangarg5990/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Amangarg5990/LeetCode/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/Amangarg5990/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Amangarg5990/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Amangarg5990/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Amangarg5990/LeetCode/tree/master/0204-count-primes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Amangarg5990/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Amangarg5990/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amangarg5990/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Amangarg5990/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Amangarg5990/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Amangarg5990/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Amangarg5990/LeetCode/tree/master/0344-reverse-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Amangarg5990/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Amangarg5990/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Amangarg5990/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Amangarg5990/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
