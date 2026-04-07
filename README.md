@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Amangarg5990/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Amangarg5990/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Amangarg5990/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Amangarg5990/LeetCode/tree/master/0202-happy-number) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Amangarg5990/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Amangarg5990/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Amangarg5990/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Amangarg5990/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Amangarg5990/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Amangarg5990/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Amangarg5990/LeetCode/tree/master/0326-power-of-three) |
