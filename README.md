@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Amangarg5990/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amangarg5990/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amangarg5990/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3174-clear-digits](https://github.com/Amangarg5990/LeetCode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/Amangarg5990/LeetCode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amangarg5990/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Amangarg5990/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3174-clear-digits](https://github.com/Amangarg5990/LeetCode/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Amangarg5990/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
