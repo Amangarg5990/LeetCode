@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Amangarg5990/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amangarg5990/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2653-sliding-subarray-beauty](https://github.com/Amangarg5990/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Amangarg5990/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Amangarg5990/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Amangarg5990/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amangarg5990/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amangarg5990/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amangarg5990/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3174-clear-digits](https://github.com/Amangarg5990/LeetCode/tree/master/3174-clear-digits) |
