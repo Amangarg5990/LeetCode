@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Amangarg5990/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Amangarg5990/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Amangarg5990/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Amangarg5990/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Amangarg5990/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Amangarg5990/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Amangarg5990/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Amangarg5990/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Amangarg5990/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Amangarg5990/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Amangarg5990/LeetCode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amangarg5990/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
