@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amangarg5990/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amangarg5990/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Amangarg5990/LeetCode/tree/master/2235-add-two-integers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amangarg5990/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
 | ------- |
