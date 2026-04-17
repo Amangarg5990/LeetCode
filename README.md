@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Amangarg5990/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amangarg5990/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/Amangarg5990/LeetCode/tree/master/3731-find-missing-elements) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Amangarg5990/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
