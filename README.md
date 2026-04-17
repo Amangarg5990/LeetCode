@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Amangarg5990/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amangarg5990/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Amangarg5990/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2653-sliding-subarray-beauty](https://github.com/Amangarg5990/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Amangarg5990/LeetCode/tree/master/2974-minimum-number-game) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Amangarg5990/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amangarg5990/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Amangarg5990/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Amangarg5990/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Amangarg5990/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Amangarg5990/LeetCode/tree/master/3174-clear-digits) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/Amangarg5990/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amangarg5990/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Amangarg5990/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Amangarg5990/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Amangarg5990/LeetCode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Amangarg5990/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
