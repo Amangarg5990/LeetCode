@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Amangarg5990/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Amangarg5990/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Amangarg5990/LeetCode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Amangarg5990/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Amangarg5990/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amangarg5990/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Amangarg5990/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Amangarg5990/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Amangarg5990/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Amangarg5990/LeetCode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amangarg5990/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Amangarg5990/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Amangarg5990/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Amangarg5990/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Amangarg5990/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Amangarg5990/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Amangarg5990/LeetCode/tree/master/0735-asteroid-collision) |
