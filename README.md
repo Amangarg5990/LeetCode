@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Amangarg5990/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Amangarg5990/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Amangarg5990/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Amangarg5990/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amangarg5990/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amangarg5990/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amangarg5990/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Amangarg5990/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Amangarg5990/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Amangarg5990/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Amangarg5990/LeetCode/tree/master/0189-rotate-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amangarg5990/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Amangarg5990/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0174-dungeon-game](https://github.com/Amangarg5990/LeetCode/tree/master/0174-dungeon-game) |
