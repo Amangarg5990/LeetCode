@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Amangarg5990/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Amangarg5990/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Amangarg5990/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Amangarg5990/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1903-largest-odd-number-in-string](https://github.com/Amangarg5990/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Amangarg5990/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -752,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Amangarg5990/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Amangarg5990/LeetCode/tree/master/0706-design-hashmap) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Amangarg5990/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
