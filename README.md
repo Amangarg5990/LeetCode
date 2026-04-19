@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Amangarg5990/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Amangarg5990/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Amangarg5990/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Amangarg5990/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Amangarg5990/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Amangarg5990/LeetCode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Amangarg5990/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Amangarg5990/LeetCode/tree/master/0657-robot-return-to-origin) |
