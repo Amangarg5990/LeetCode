@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Amangarg5990/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1122-relative-sort-array](https://github.com/Amangarg5990/LeetCode/tree/master/1122-relative-sort-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Amangarg5990/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Amangarg5990/LeetCode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amangarg5990/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/Amangarg5990/LeetCode/tree/master/1122-relative-sort-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Amangarg5990/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Amangarg5990/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Amangarg5990/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amangarg5990/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Amangarg5990/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/Amangarg5990/LeetCode/tree/master/1122-relative-sort-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2653-sliding-subarray-beauty](https://github.com/Amangarg5990/LeetCode/tree/master/2653-sliding-subarray-beauty) |
@@ -757,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Amangarg5990/LeetCode/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Amangarg5990/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
