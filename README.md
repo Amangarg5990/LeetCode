@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Amangarg5990/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Amangarg5990/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Amangarg5990/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Amangarg5990/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amangarg5990/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amangarg5990/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amangarg5990/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
