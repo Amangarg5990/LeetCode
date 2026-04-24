@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Amangarg5990/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Amangarg5990/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/Amangarg5990/LeetCode/tree/master/0620-not-boring-movies) |
 ## Topological Sort
