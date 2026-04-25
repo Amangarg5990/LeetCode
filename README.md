@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Amangarg5990/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Amangarg5990/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amangarg5990/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1991-find-the-middle-index-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amangarg5990/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amangarg5990/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amangarg5990/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/Amangarg5990/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amangarg5990/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Design
 |  |
