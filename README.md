@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Amangarg5990/LeetCode/tree/master/2418-sort-the-people) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Amangarg5990/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amangarg5990/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Amangarg5990/LeetCode/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Amangarg5990/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2653-sliding-subarray-beauty](https://github.com/Amangarg5990/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amangarg5990/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amangarg5990/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Amangarg5990/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amangarg5990/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Amangarg5990/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Amangarg5990/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amangarg5990/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amangarg5990/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/Amangarg5990/LeetCode/tree/master/2540-minimum-common-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Amangarg5990/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amangarg5990/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/Amangarg5990/LeetCode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Amangarg5990/LeetCode/tree/master/2540-minimum-common-value) |
 | [2653-sliding-subarray-beauty](https://github.com/Amangarg5990/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amangarg5990/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Amangarg5990/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
