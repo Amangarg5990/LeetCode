@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Amangarg5990/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amangarg5990/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Amangarg5990/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Amangarg5990/LeetCode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Amangarg5990/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Amangarg5990/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Amangarg5990/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Amangarg5990/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Amangarg5990/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Amangarg5990/LeetCode/tree/master/0396-rotate-function) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amangarg5990/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Amangarg5990/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amangarg5990/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amangarg5990/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Amangarg5990/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Amangarg5990/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Amangarg5990/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Amangarg5990/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Amangarg5990/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Amangarg5990/LeetCode/tree/master/0507-perfect-number) |
